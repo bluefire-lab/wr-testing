@@ -1,0 +1,2 @@
+2021/08/08 21:20:09 [warn] 1#1: the "http2_max_field_size" directive is obsolete, use the "large_client_header_buffers" directive instead in /etc/nginx/conf.d/tweaks.conf:4
+2021/08/08 21:20:09 [warn] 1#1: the "http2_max_header_size" directive is obsolete, use the "large_client_header_buffers" directive instead in /etc/nginx/conf.d/tweaks.conf:5
