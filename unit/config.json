@@ -29,6 +29,8 @@
     "applications": {
         "wordpress": {
             "type": "php",
+            "user": "www-data",
+            "group": "www-data",
             "targets": {
                 "direct": {
                     "root": "/var/www/"
